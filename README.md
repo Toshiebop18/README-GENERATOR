@@ -40,7 +40,7 @@ npm test
 ![screenshot](assets/picture.jpeg)
 
 ### Execution video
-![execution video](assets/exec.mp4)
+Watch the execution video [here](assets/exec.mp4)
 
 ## Questions
 
