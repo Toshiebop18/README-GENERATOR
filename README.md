@@ -38,5 +38,5 @@ npm test
 
 For any questions, please contact me:
 
-- GitHub: [@toshibear18](https://github.com/toshibear18)
+- GitHub: [Toshiebop18](https://github.com/toshibear18)
 - Email: toshibear18@gmail.com
