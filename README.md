@@ -34,8 +34,13 @@ This project is licensed under the Apache 2.0 License - see [here](https://opens
 
 npm test  
 
-## Execution video
+## Execution video and screenshot
 
+### Screenshot
+![screenshot](assets/image.jpeg)
+
+### Execution video
+![execution video](assets/exec.mp4)
 
 ## Questions
 
