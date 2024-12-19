@@ -37,7 +37,7 @@ npm test
 ## Execution video and screenshot
 
 ### Screenshot
-![screenshot](assets/image.jpeg)
+![screenshot](assets/picture.jpeg)
 
 ### Execution video
 ![execution video](assets/exec.mp4)
